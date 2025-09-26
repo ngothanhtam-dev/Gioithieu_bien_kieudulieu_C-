@@ -1,0 +1,14 @@
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\bin\Debug\net9.0\bien_kieudulieu.exe
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\bin\Debug\net9.0\bien_kieudulieu.deps.json
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\bin\Debug\net9.0\bien_kieudulieu.runtimeconfig.json
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\bin\Debug\net9.0\bien_kieudulieu.dll
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\bin\Debug\net9.0\bien_kieudulieu.pdb
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.AssemblyInfoInputs.cache
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.AssemblyInfo.cs
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.csproj.CoreCompileInputs.cache
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.dll
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\refint\bien_kieudulieu.dll
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.pdb
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\bien_kieudulieu.genruntimeconfig.cache
+C:\Users\dark8\OneDrive\Desktop\FullStackC#\Code\bien_kieudulieu\obj\Debug\net9.0\ref\bien_kieudulieu.dll
